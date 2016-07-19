@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokewords</string>
+
+    <string name="loading_message">Loading the original 151 Pokemon names into your dictionary.</string>
+    <string name="success_message">SUCCESS! You now have the original 151 pokemon names loaded into your default Android dictionary!</string>
+    <string name="hint">Test it out here!</string>
+    <string name="exit_button">Exit</string>
+</resources>
